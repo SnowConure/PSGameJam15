@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 93b9a0e945f87dd49b14d78735b7f729, type: 3}
+  m_Name: "16 Speculator\u2019s Boost"
+  m_EditorClassIdentifier: 
+  Name: "Speculator\u2019s Boost"
+  Description: Remove {value} from your Potency. The next two Ingredients played
+    will have their Value multiplied with {value2}
+  EffectIndex: 16
+  Sprite: {fileID: 21300000, guid: 5f3cbb2b43472dd47951811ef4aa5885, type: 3}
+  defaultValue: 10
+  defaultValue2: 2
+  WhereToPlay: 0
+  cost: 2
+  rarity: 1

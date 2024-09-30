@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 93b9a0e945f87dd49b14d78735b7f729, type: 3}
+  m_Name: 12 Harmonic Leaf
+  m_EditorClassIdentifier: 
+  Name: Harmonic Leaf
+  Description: If the next two Ingedients you play have the same name, multiple the
+    Value of the second one with {value}
+  EffectIndex: 12
+  Sprite: {fileID: 21300000, guid: cc8a4ee2b462c044d95808a74f7ae40c, type: 3}
+  defaultValue: 3
+  defaultValue2: 0
+  WhereToPlay: 0
+  cost: 2
+  rarity: 1

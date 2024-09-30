@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 93b9a0e945f87dd49b14d78735b7f729, type: 3}
+  m_Name: 19 Sacrificial Leaf
+  m_EditorClassIdentifier: 
+  Name: Sacrificial Leaf
+  Description: Destroy an Ingredient and Add its first Value to your Potency
+  EffectIndex: 19
+  Sprite: {fileID: 21300000, guid: b4810dc06dd29894993b7e3b027367c3, type: 3}
+  defaultValue: 0
+  defaultValue2: 0
+  WhereToPlay: 1
+  cost: 1
+  rarity: 0

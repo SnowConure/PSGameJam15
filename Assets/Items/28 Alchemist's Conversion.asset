@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 93b9a0e945f87dd49b14d78735b7f729, type: 3}
+  m_Name: 28 Alchemist's Conversion
+  m_EditorClassIdentifier: 
+  Name: Alchemist's Conversion
+  Description: Convert all your Gold into Potency with a 1:{value} ratio
+  EffectIndex: 28
+  Sprite: {fileID: 21300000, guid: a896e0e68f6a43446ab8318974647ac7, type: 3}
+  defaultValue: 1
+  defaultValue2: 0
+  WhereToPlay: 0
+  cost: 3
+  rarity: 2
